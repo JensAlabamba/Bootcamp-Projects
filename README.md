@@ -1,2 +1,2 @@
 # Bootcamp-Projects
-All projects done during Learning at App Academy Bootcamp
+All projects finished during Learning at App Academy Bootcamp!
